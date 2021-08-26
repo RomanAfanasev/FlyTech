@@ -1,8 +1,7 @@
 {
   "name": "flytech",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://romanafanasev.github.io/FlyTech/",
+  "private": true,  
   "dependencies": {
     "classnames": "^2.2.6",
     "gh-pages": "^3.2.3",
