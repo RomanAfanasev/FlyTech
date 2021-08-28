@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd6ca37d7b8debf900e657e91054314b",
+    "revision": "f8bf747d3dd3f40ab94cb62090dfc469",
     "url": "/FlyTech/index.html"
   },
   {
-    "revision": "8adb07f48742c2fd2bee",
+    "revision": "ef62b315b1c02a84c976",
     "url": "/FlyTech/static/css/main.8b84d68a.chunk.css"
   },
   {
-    "revision": "fa1c8fe45af22932eb89",
-    "url": "/FlyTech/static/js/2.cfe2dd5c.chunk.js"
+    "revision": "0f1d03f00e8f3f578bcf",
+    "url": "/FlyTech/static/js/2.6b8608cc.chunk.js"
   },
   {
-    "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/FlyTech/static/js/2.cfe2dd5c.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/FlyTech/static/js/2.6b8608cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8adb07f48742c2fd2bee",
-    "url": "/FlyTech/static/js/main.62e16edb.chunk.js"
+    "revision": "ef62b315b1c02a84c976",
+    "url": "/FlyTech/static/js/main.06a435f0.chunk.js"
   },
   {
     "revision": "baff2bbcd494c2d25f4f",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
     "url": "/FlyTech/static/media/cta-illustration.3ce357e7.svg"
-  },
-  {
-    "revision": "f646ab658cea3efc6b9cadb38686d6b4",
-    "url": "/FlyTech/static/media/flytech.f646ab65.svg"
   },
   {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
