@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FlyTech/static/css/main.8b84d68a.chunk.css",
-    "main.js": "/FlyTech/static/js/main.be127148.chunk.js",
-    "main.js.map": "/FlyTech/static/js/main.be127148.chunk.js.map",
+    "main.js": "/FlyTech/static/js/main.f0b0eb16.chunk.js",
+    "main.js.map": "/FlyTech/static/js/main.f0b0eb16.chunk.js.map",
     "runtime-main.js": "/FlyTech/static/js/runtime-main.65cf77c4.js",
     "runtime-main.js.map": "/FlyTech/static/js/runtime-main.65cf77c4.js.map",
     "static/js/2.537ea816.chunk.js": "/FlyTech/static/js/2.537ea816.chunk.js",
     "static/js/2.537ea816.chunk.js.map": "/FlyTech/static/js/2.537ea816.chunk.js.map",
     "index.html": "/FlyTech/index.html",
-    "precache-manifest.f19e8f962560bd9a9825acafaf926ae1.js": "/FlyTech/precache-manifest.f19e8f962560bd9a9825acafaf926ae1.js",
+    "precache-manifest.ccb501cefa5922987f462be9443bc03e.js": "/FlyTech/precache-manifest.ccb501cefa5922987f462be9443bc03e.js",
     "service-worker.js": "/FlyTech/service-worker.js",
     "static/css/main.8b84d68a.chunk.css.map": "/FlyTech/static/css/main.8b84d68a.chunk.css.map",
     "static/js/2.537ea816.chunk.js.LICENSE.txt": "/FlyTech/static/js/2.537ea816.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.65cf77c4.js",
     "static/js/2.537ea816.chunk.js",
     "static/css/main.8b84d68a.chunk.css",
-    "static/js/main.be127148.chunk.js"
+    "static/js/main.f0b0eb16.chunk.js"
   ]
 }

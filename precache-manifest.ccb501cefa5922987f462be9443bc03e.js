@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4c55411de387e62f48bf4d29caad401",
+    "revision": "6c6bc39ad5cb88191f9932cae54ca26f",
     "url": "/FlyTech/index.html"
   },
   {
-    "revision": "847bd7f1adba4e8e3baf",
+    "revision": "bc928146260ebdbfa928",
     "url": "/FlyTech/static/css/main.8b84d68a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FlyTech/static/js/2.537ea816.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "847bd7f1adba4e8e3baf",
-    "url": "/FlyTech/static/js/main.be127148.chunk.js"
+    "revision": "bc928146260ebdbfa928",
+    "url": "/FlyTech/static/js/main.f0b0eb16.chunk.js"
   },
   {
     "revision": "baff2bbcd494c2d25f4f",

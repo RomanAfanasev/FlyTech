@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FlyTech/precache-manifest.f19e8f962560bd9a9825acafaf926ae1.js"
+  "/FlyTech/precache-manifest.ccb501cefa5922987f462be9443bc03e.js"
 );
 
 self.addEventListener('message', (event) => {
